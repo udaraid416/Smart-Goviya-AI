@@ -5,4 +5,8 @@ opencv-python-headless
 gTTS
 SpeechRecognition
 streamlit-lottie
+requests
+numpy
 plotly
+pandas
+pydub
