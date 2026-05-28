@@ -5,3 +5,4 @@ opencv-python-headless
 gTTS
 SpeechRecognition
 streamlit-lottie
+plotly
