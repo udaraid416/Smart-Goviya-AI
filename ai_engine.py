@@ -17,7 +17,7 @@ except Exception as e:
     st.error("⚠️ API Key එක හමුවූයේ නැත! කරුණාකර Streamlit Secrets වල GEMINI_API_KEY ඇතුලත් කරන්න.")
 
 # Cloud එකට සපෝට් කරන අලුත්ම Model එක
-MODEL_NAME = 'gemini-1.5-flash-latest'
+MODEL_NAME = 'gemini-1.5-flash'
 
 # ════════════════════════════════════════════════════
 #  1. SINHALA CHATBOT (Text/Voice)
